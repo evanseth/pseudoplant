@@ -2,7 +2,8 @@
 
 <param ve-config 
        title="Ancient Aliens: Are They Plants"
-       banner="https://upload.wikimedia.org/wikipedia/commons/f/f3/Nicolas_Cage_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/1/15/St._Nicholas_%28serial%29_%281873%29_%2814780041241%29.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/1/15/St._Nicholas_%28serial%29_%281873%29_%2814780041241%29.jpg"
        author="ETHAN"
        layout="vertical">
 
