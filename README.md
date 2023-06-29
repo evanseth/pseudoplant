@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Ancient Aliens: Are They Plants"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/1/15/St._Nicholas_%28serial%29_%281873%29_%2814780041241%29.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/1/15/St._Nicholas_%28serial%29_%281873%29_%2814780041241%29.jpg"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/1/19/Green_milkweed_flower_-_unknown_Asclepias.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/1/19/Green_milkweed_flower_-_unknown_Asclepias.jpg"
        author="ETHAN"
        layout="vertical">
 
