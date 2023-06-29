@@ -2,6 +2,7 @@
 
 <param ve-config 
        title="Ancient Aliens: Are They Plants"
+       banner="https://en.wikipedia.org/wiki/Goat#/media/File:Hausziege_04.jpg"
        author="ETHAN"
        layout="vertical">
 
