@@ -12,4 +12,4 @@
 <param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/80/Nicholas_Cage%281%29.jpg">
 <param ve-image label="alien man" description="haha description" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nicolas_Cage_Deauville_2013.jpg">
 <param ve-entity eid="Q2738" title=“Fox Mulder”>
-<param ve-entity eid="Q214242" title=“friendly bedbugs”>
+<param ve-entity eid="Q214242" title=“bedbugs”>
