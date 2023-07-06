@@ -16,4 +16,4 @@
 
 ### Paragraph
 hemlo
-<param ve-iframe src="https://archive.org/details/ecologicanatomyo00hayd/page/72/mode/2up">
+<param ve-iframe src="https://archive.org/details/ecologicanatomyo00hayd/page/72/mode/2up?view=theater">
