@@ -11,3 +11,4 @@
 [_Ilexparaguariensis_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:94213-1) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant. Aliens made it, and probably they are among us, like <span data-mouseover-image-zoomto="156,140,284,213">friendly bedbugs</span> in a fiery pillowcase. I've been thinking about how plants are like space aliens, in that they both exist as conquerable in the colonial imagination. I'm not afraid of much, but I am afraid of pyramid scheme.
 <param ve-image url="speciosa.jpg" title="Kratom">
 <param ve-entity eid="Q214242" title=“Pyramid Scheme”>
+<param ve-video vid="HSHPQWyxZds&ab_channel=ShieldsDateGardens">
