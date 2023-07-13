@@ -16,6 +16,5 @@
 
 ### Paragraph
 hemlo
-<param ve-iframe src="https://archive.org/details/ecologicanatomyo00hayd/page/72/mode/2up?view=theater">
 <param ve-compare sync url="speciosa.jpg" title="Kratom">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/2/22/Sabra_%281966%29_-_Franz_Kline_%281910-1962%29_%2831087622617%29.jpg" title="kline">
