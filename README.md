@@ -19,6 +19,7 @@ use compare tool for column images
 <param ve-compare curtain url="speciosa.jpg" title="Kratom">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/2/22/Sabra_%281966%29_-_Franz_Kline_%281910-1962%29_%2831087622617%29.jpg" title="kline">
 ### Paragraph
+some words 
 <param ve-knightlab-timeline
 source="1Sjqr48gpai-sviEiV7U5ZC95NPvz6Av4YwLh8ddXZaw"
 timenav-position="bottom"
