@@ -26,3 +26,4 @@ timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
 height="750">
+<param ve-map center="Q851" zoom="6">
