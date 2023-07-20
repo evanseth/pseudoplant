@@ -30,4 +30,4 @@ height="750">
 
 ### New paragraph
 words words words
-<param ve-map>
+<param ve-map title="Big Map">
