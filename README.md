@@ -29,6 +29,6 @@ height="750">
 <param ve-map center="Q851" zoom="6">
 
 ### New paragraph
-words words words
+words words <span data-mouseover-map-flyto="33.673304, -116.102779, 14"> words </span>.
 <param ve-map title="Big Map" center="33.79402394299878, -116.39516748367382" zoom="10">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/evanseth/pseudoplant/main/maptest.json">
