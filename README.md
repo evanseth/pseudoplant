@@ -30,4 +30,4 @@ height="750">
 
 ### New paragraph
 words words words
-<param ve-map title="Big Map" center="33.79402394299878, -116.39516748367382" zoom="6">
+<param ve-map title="Big Map" center="33.79402394299878, -116.39516748367382" zoom="10">
