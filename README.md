@@ -31,3 +31,4 @@ height="750">
 ### New paragraph
 words words words
 <param ve-map title="Big Map" center="33.79402394299878, -116.39516748367382" zoom="10">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/evanseth/pseudoplant/main/maptest.json">
