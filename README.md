@@ -30,4 +30,4 @@ height="750">
 
 ### New paragraph
 words words words
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/25/Date_palm_cluster_of_an_oasis_in_Boa_Vista%2C_2010_12.JPG">
+<param ve-map>
